@@ -72,4 +72,4 @@ Example queries for the Gradio Chat Interface include:
 "Which places do you like to visit?"
 ```
 ## Conclusion
-This documentation provides an overview of the AutoGPT Chat Interface, including installation instructions, usage guidelines, and an explanation of key components.
+This documentation provides an overview of the Chat Interface, including installation instructions, usage guidelines, and an explanation of key components.
